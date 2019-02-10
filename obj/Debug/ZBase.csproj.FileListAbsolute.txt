@@ -1,0 +1,5 @@
+C:\Users\mixikk\Desktop\ZBase-CSGO-master\obj\Debug\ZBase.csprojAssemblyReference.cache
+C:\Users\mixikk\Desktop\ZBase-CSGO-master\obj\Debug\Bhop.Menu.resources
+C:\Users\mixikk\Desktop\ZBase-CSGO-master\obj\Debug\ZBase.Properties.Resources.resources
+C:\Users\mixikk\Desktop\ZBase-CSGO-master\obj\Debug\ZBase.csproj.GenerateResource.cache
+C:\Users\mixikk\Desktop\ZBase-CSGO-master\obj\Debug\ZBase.csproj.CoreCompileInputs.cache
